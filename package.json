@@ -1,0 +1,25 @@
+{
+  "name": "wj-js-toolkit",
+  "version": "1.0.0",
+  "description": "A JavaScript toolkit",
+  "main": "./lib/index.js",
+  "files": [
+    "lib/"
+  ],
+  "scripts": {
+    "tsc": "tsc -p tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjpeters/wj-js-toolkit.git"
+  },
+  "author": "Willem Peters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wjpeters/wj-js-toolkit/issues"
+  },
+  "homepage": "https://github.com/wjpeters/wj-js-toolkit#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
